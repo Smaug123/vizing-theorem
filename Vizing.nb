@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    196048,       4358]
+NotebookDataLength[    196045,       4358]
 NotebookOptionsPosition[    189532,       4245]
-NotebookOutlinePosition[    189872,       4260]
-CellTagsIndexPosition[    189829,       4257]
+NotebookOutlinePosition[    189869,       4260]
+CellTagsIndexPosition[    189826,       4257]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -4244,7 +4244,7 @@ Cell["And this completes the colouring.", "Text",
 05c4158d710f"]
 },
 WindowSize->{734, 710},
-WindowMargins->{{-38, Automatic}, {-151, Automatic}},
+WindowMargins->{{102, Automatic}, {4, Automatic}},
 FrontEndVersion->"12.0 for Mac OS X x86 (64-bit) (April 8, 2019)",
 StyleDefinitions->"Default.nb"
 ]
